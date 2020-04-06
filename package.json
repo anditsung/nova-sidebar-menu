@@ -1,0 +1,12 @@
+{
+	"name": "nova-sidebar-menu",
+	"version": "0.0.4",
+	"description": "a nova navigation collpase menu",
+	"main": "src/NovaSidebarMenu.vue",
+ 	"author": "anditsung",
+  "email": "anditsung@gmail.com",
+ 	"license": "MIT",
+ 	"dependencies": {
+  		"vue-clickaway": "^2.2.2"
+ 	}
+}
