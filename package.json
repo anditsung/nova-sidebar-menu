@@ -1,6 +1,6 @@
 {
 	"name": "nova-sidebar-menu",
-	"version": "0.0.4",
+	"version": "0.0.14",
 	"description": "a nova navigation collpase menu",
 	"main": "src/NovaSidebarMenu.vue",
  	"author": "anditsung",
